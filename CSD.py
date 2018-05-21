@@ -580,4 +580,4 @@ WriteFileName.close
 if platform.system()=="Linux" or platform.system()=="Windows":
     webbrowser.open_new_tab('index.html')
 else:
-    A=input("Please Use Linux.")
+    A=input("Please Open the Index.html to see the results.")
